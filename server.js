@@ -1,4 +1,3 @@
-// Add this before any other code
 const crypto = require('crypto');
 global.crypto = crypto;
 require('dotenv').config();
